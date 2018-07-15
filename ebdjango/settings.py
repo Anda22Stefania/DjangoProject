@@ -24,7 +24,7 @@ SECRET_KEY = 'CHANGE_ME'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = bool( os.environ.get('DJANGO_DEBUG', False) )
-
+#Another test comment
 #TEST COMMENT
 ALLOWED_HOSTS = ['*']
 
